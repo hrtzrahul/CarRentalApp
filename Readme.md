@@ -40,7 +40,7 @@ To install and set up the Car Rental Application, follow these steps:
 1. Clone the repository from GitLab:
 
    shell
-   git clone https://nagarro-my.sharepoint.com/personal/rahul_singh14_nagarro_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Frahul%5Fsingh14%5Fnagarro%5Fcom%2FDocuments%2FDesktop%2FRahulSingh%2D2%2D01%2DMarch%2D2023%2DCarRentalApp&ct=1695195528282&or=Teams%2DHL&ga=1
+   git clone (https://github.com/hrtzrahul/CarRentalApp)
 2. Change into the project directory:
 
     shell

@@ -1,0 +1,12 @@
+<form style="margin-top: 80px;"[formGroup]="agreementData" (click)="Submit()">
+    <div class="form-group" >
+      <label for="RentalStartDate">Start Date:</label>
+      <input type="date" id="RentalStartDate" formControlName="rentalStartDate" required class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="RentalEndDate">End Date:</label>
+      <input type="date" id="RentalEndDate" formControlName="rentalEndDate" required class="form-control">
+    </div>
+    <button type="submit"  class="btn btn-primary">Submit</button>
+  </form>
+  
